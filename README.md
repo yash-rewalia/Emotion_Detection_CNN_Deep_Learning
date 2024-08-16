@@ -1,7 +1,7 @@
 ### Emotion Detection Using CNN
 Emotion detection is crucial for enhancing human-computer interaction, making technology more responsive and empathetic to users' emotional states. It plays a vital role in mental health monitoring by identifying emotional cues that may indicate conditions like depression or anxiety, enabling timely intervention. Additionally, emotion detection has applications in personalized marketing, customer service, and education, where understanding emotions can lead to more tailored and effective experiences. By bridging the gap between human emotions and machine understanding, emotion detection paves the way for more intuitive and impactful technological solutions.
 
-![image](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXF3NHhvZTdhZzdsOTcxN3h3YWc3NzBwcDhoc3VvZWhpZ3k5dWw2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OjBwbXf8bhUjBc98Kt/giphy-downsized-large.gif)
+![image](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY25tNW1wZHh2Z3V6czNpdzNhbzhmMTBjNWMxbDhtdzR2Yjc4OHd0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3hTsL6mTAVDgj5aHKg/giphy.gif)
 
 ## Overview
 This project focuses on detecting emotions from images using Convolutional Neural Networks (CNN). The task involves building and comparing the performance of four different models:
